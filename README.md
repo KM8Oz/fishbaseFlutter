@@ -1,6 +1,6 @@
 
 # this app will be and guide for fisherman in the volga river.
-##Technical point.
+## Technical point.
 * The architecture uses MVP-Clean for simple, easy-to-maintain, easy-to-test, high cohesion, and low coupling.
 * The UI style is Matterial Design, fresh, simple and intuitive.
 * Weex and Flutter are used across the end to support Kotlin while supporting its extended use.
